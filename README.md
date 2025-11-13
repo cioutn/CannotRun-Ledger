@@ -240,6 +240,6 @@ LOG_FILE=ledger/logs/app.log
 
 **⭐ 如果这个项目对你有帮助，请给它一个星标！**
 
-[📧 联系我们](mailto:your-email@example.com) • [🐛 报告问题](https://github.com/your-username/ledger/issues) • [💡 功能请求](https://github.com/your-username/ledger/issues)
+[🐛 报告问题](https://github.com/cioutn/CannotRun-Ledger/issues) • [💡 功能请求](https://github.com/cioutn/CannotRun-Ledger/issues) • [🔀 提交PR](https://github.com/cioutn/CannotRun-Ledger/pulls)
 
 </div>
