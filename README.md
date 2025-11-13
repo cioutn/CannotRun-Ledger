@@ -34,7 +34,7 @@
 
 ### 📋 系统要求
 
-- **Python**: 3.8 或更高版本
+- **Python**: 3.10 或更高版本
 - **操作系统**: Windows 10+ / macOS 10.15+ / Linux
 - **内存**: 至少 512MB RAM
 - **存储**: 至少 100MB 可用空间
@@ -50,7 +50,7 @@ cd ledger
 #### 2. 创建 Python 环境（推荐）
 ```bash
 # 使用 conda
-conda create -n ledger python=3.9
+conda create -n ledger python=3.12 -y
 conda activate ledger
 
 # 或使用 venv
