@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![PyQt5](https://img.shields.io/badge/PyQt5-5.15+-green.svg)](https://pypi.org/project/PyQt5/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/your-username/ledger.svg)](https://github.com/cioutn/CannotRun-Ledger)
+[![GitHub stars](https://img.shields.io/github/stars/cioutn/CannotRun-Ledger.svg)](https://github.com/cioutn/CannotRun-Ledger)
 
 > 🚀 现代化个人财务管理工具，基于 PyQt5 + Fluent Design，支持 AI 智能录入和可视化分析
 
