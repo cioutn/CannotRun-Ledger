@@ -25,7 +25,7 @@ class AICommandDialog(MessageBoxBase):
         self._init_ui()
 
     def _init_ui(self):
-        self.titleLabel = SubtitleLabel("AI 自然语言录入", self)
+        self.titleLabel = SubtitleLabel("", self)
         self.titleLabel.setFont(Theme.font(Theme.FONT_TITLE, True))
 
         # 主体区

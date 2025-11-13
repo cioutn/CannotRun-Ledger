@@ -30,7 +30,7 @@ class AddTransactionDialog(MessageBoxBase):
     def init_ui(self):
         """初始化UI"""
         # 标题
-        title_text = "编辑交易" if self.transaction else "添加交易"
+        title_text = "" if self.transaction else ""
         self.titleLabel = SubtitleLabel(title_text, self)
         self.titleLabel.setFont(Theme.font(Theme.FONT_TITLE, True))
         
