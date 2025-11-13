@@ -1,0 +1,6 @@
+python-dotenv>=1.0.0
+PyQt5>=5.15.10
+PyQt5-sip>=12.13.0
+PyQtChart
+PyQt-Fluent-Widgets>=1.6.0
+openai>=1.53.0
