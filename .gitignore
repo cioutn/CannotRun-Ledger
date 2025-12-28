@@ -3,3 +3,6 @@ logs/
 data/
 .env
 .pylintrc
+
+.hypothesis/
+.coverage
